@@ -1,4 +1,4 @@
-# Train Ticket Booking System
+# Train Ticket Booking
 
 This Solidity smart contract implements a Train Ticket Booking System on the Ethereum blockchain. The contract enables users to book even-numbered seats within the range of 1 to 50, associating each seat with the Ethereum address of the booking passenger.
 
