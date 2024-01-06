@@ -30,10 +30,10 @@ This Solidity smart contract implements a Train Ticket Booking System on the Eth
 This contract is released under the MIT License. See the (LICENSE) file for the terms and conditions.
 
 
-
 ## Author
 
 Manoj
 
 manjumanoj0056@gmail.com
+
 
