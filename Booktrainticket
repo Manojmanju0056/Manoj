@@ -20,3 +20,4 @@ contract TrainTicketBookingSystem1 {
         bookedSeats[seatNumber] = msg.sender;
     }
 }
+
